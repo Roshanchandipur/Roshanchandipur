@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Roshanchandipur](github.com/Roshanchandipur)
 
-- 💬 Ask me about **Java, Kotlin, Android, DSA, Microservices**
+- 💬 Ask me about **Java, Kotlin, Android, DSA, Databases, Microservices**
 
 - 📫 How to reach me **roshanchandipur@gmail.com**
 
