@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android View Animations**
 
-- 👨‍💻 All of my projects are available at [github.com/Roshanchandipur](github.com/Roshanchandipur)
+- 👨‍💻 All of my projects are available at https://github.com/Roshanchandipur?tab=repositories
 
 - 💬 Ask me about **Java, Kotlin, Android, DSA, Databases, Microservices**
 
