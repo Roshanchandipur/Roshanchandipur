@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanchandipur&label=Profile%20views&color=0e75b6&style=flat" alt="roshanchandipur" /> </p>
 
-- 🔭 I’m currently working on **Online Multiplayer Ludo Application**
+- 🔭 I’m currently working on **e-commerce application**
 
 - 🌱 I’m currently learning **Android View Animations**
 
