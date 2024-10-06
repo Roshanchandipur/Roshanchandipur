@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **e-commerce application**
 
-- 🌱 I’m currently learning **Android View Animations**
+- 🌱 I’m currently learning **Android React**
 
 - 💬 Ask me about **Java, Kotlin, Android, DSA, Databases, Microservices**
 
