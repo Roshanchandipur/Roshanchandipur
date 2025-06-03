@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanchandipur&label=Profile%20views&color=0e75b6&style=flat" alt="roshanchandipur" /> </p>
 
-- 🔭 I’m currently working on **e-commerce application**
-
-- 🌱 I’m currently learning **Android React**
-
-- 💬 Ask me about **Java, Kotlin, Android, DSA, Databases, Microservices**
+- 💬 Ask me about **Java, DSA, Databases, Microservices**
 
 - 📫 How to reach me **roshanchandipur@gmail.com**
 
